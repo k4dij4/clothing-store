@@ -1,0 +1,22 @@
+nav a {
+    margin-left:50px ;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+div {
+    border-radius: 20px;
+    width: 600px;
+    border: solid;
+    padding-bottom: 3%;
+    border-color: azure;
+    margin-top: 5%;
+}
+body {
+    background-color: rgb(221, 217, 212);
+}
+
+#blog {
+    color: gray;
+}

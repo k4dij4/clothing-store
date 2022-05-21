@@ -1,0 +1,27 @@
+form {
+    margin-top: 13%;
+    border-radius: 20px;
+    width: 500px;
+    border: solid;
+    padding-bottom: 3%;
+    border-color: azure;
+}
+
+body {
+    background-color: rgb(221, 217, 212);
+}
+
+#email {
+margin-top: 10px;
+}
+
+nav a {
+    margin-left:50px ;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#log {
+    color: gray;
+}

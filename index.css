@@ -1,0 +1,66 @@
+
+
+    .flex-item {
+        height: 40%;
+        width: 25%;
+        background-color: rgb(204, 204, 204);
+        border: solid;
+        margin-bottom: 30px;
+        border-color: rgb(202, 202, 202);
+        border-width: 4px;
+        border-radius: 15px;
+        transition: all;
+        transition-duration: 1s;
+
+}
+
+body {
+    background-color: rgb(221, 217, 212);
+}
+img {
+    border-radius: 5px;
+        height: 115px;
+        width: 160px;
+        padding-top: 13%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+    flex-wrap: wrap;
+   
+
+    border-radius:10px;
+}
+.flex-item:hover {
+    background-color: rgb(207, 203, 199);
+    color: rgb(248, 248, 248);
+    height: 30%;
+    width: 20%;
+    border-radius: 20px;
+
+
+    border: solid;
+    border-color: rgb(255, 251, 251);
+    height: 49%;
+    width: 29%;
+} 
+
+nav a {
+    margin-left:50px ;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#store {
+    color: grey;
+    
+}
+
+
+
+    
+    
